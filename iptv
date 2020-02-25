@@ -1079,6 +1079,9 @@ https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southea
 #EXTINF:-1 tvg-ID="" tvg-name="KARAOKE CHANNEL" tvg-logo="https://i.postimg.cc/hGGpfc0F/Play-TV-2010.png" group-title="MUSIK TV",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title=" Vod Boruto", Episode 20
+https://cdn.apidev.icu/drive/index.php?id=e0iOfI%2BKk1bIBvMVO4KM1w2el3wChmFzWmB1Yujj2Cg7obvfR19Mxo1LLrRZjw1hIqDrHRGtxaqfegcNQEtTfp26vhgT0Cvk5oPeJPsxz04LeLcL8GyzkUzdGSjL42P3NRjJ4JlP2LaawDq3IuickhKrKYv%2FKXpgWtssk6s5AOz%2Fqd4xohmvkIAsCQlB3%2F3iqNnANKqb2eduDGfGArzLW26ANzKfMKnsa7%2BF%2FW7r9CyJ2RFUSctEM6iPZEgLKBX2Y%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-20-sub-indo%2F&res=720
+
 #EXTINF:-1 tvg-ID="" tvg-name="MOVIES" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="MOVIES TV",Movies
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
