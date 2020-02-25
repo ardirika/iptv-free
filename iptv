@@ -651,13 +651,13 @@ https://dl.dropboxusercontent.com/s/5e4k9czqgql8p25/TV3.m3u8?dl=0
 #https://b27v.broiptv.online/play/free.broiptv@broiptv.online/XOccWaaX/DVOOs3No/rattus/useesports/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Dummy" tvg-name="Useesports 2" tvg-logo="https://i.postimg.cc/tJKNKqXp/images.jpg" group-title="SPORT TV", Useesports 2
-http://tvku.live:8888/rs378/2992/2408
+#http://tvku.live:8888/rs378/2992/2408
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhH6Q0J/logo-liga-champions-eropa-20150916-051753.jpg" group-title="SPORT TV",Champions tv 1
-http://tvku.live:8888/rs378/2992/2407
+#http://tvku.live:8888/rs378/2992/2407
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhH6Q0J/logo-liga-champions-eropa-20150916-051753.jpg" group-title="SPORT TV",Champions tv 2
-http://tvku.live:8888/rs378/2992/2409
+#http://tvku.live:8888/rs378/2992/2409
 
 #EXTINF:-1 tvg-ID="" tvg-name="MNC SPORT 1" tvg-logo="https://i.postimg.cc/FzkxMkdr/images-59.jpg" group-title="SPORT TV",MNC SPORT 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
@@ -669,16 +669,16 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_10
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Astro Supersport 1" tvg-logo="https://i.postimg.cc/3rtsSYKd/astro-share-1.png" group-title="SPORT TV", Astro Supersport 1
-http://tvku.live:8888/rs378/2992/4156
+#http://tvku.live:8888/rs378/2992/4156
 
 #EXTINF:-1 tvg-ID="A" tvg-name="Astro Supersport 2" tvg-logo="https://i.postimg.cc/3rtsSYKd/astro-share-1.png" group-title="SPORT TV", Astro Supersport 2
-http://tvku.live:8888/rs378/2992/4155
+#http://tvku.live:8888/rs378/2992/4155
 
 #EXTINF:-1 tvg-ID="" tvg-name="Astro Supersport 3" tvg-logo="https://i.postimg.cc/3rtsSYKd/astro-share-1.png" group-title="SPORT TV", Astro Supersport 3
-http://tvku.live:8888/rs378/2992/4154
+#http://tvku.live:8888/rs378/2992/4154
 
 #EXTINF:-1 tvg-ID="" tvg-name="Astro Supersport 4" tvg-logo="https://i.postimg.cc/3rtsSYKd/astro-share-1.png" group-title="SPORT TV", Astro Supersport 4
-http://tvku.live:8888/rs378/2992/4153
+#http://tvku.live:8888/rs378/2992/4153
 
 #EXTINF:-1 tvg-id="Fox Sports News" tvg-logo="https://i.postimg.cc/MGrPgSPY/images-60.jpg" group-title="SPORT TV",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
@@ -1144,6 +1144,24 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 
 #EXTINF:-1 tvg-ID="" tvg-name="FAIL ARMY" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="MOVIES TV",FAIL ARMY
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="Vod",Kafan Sundel Bolong (2012)
+https://bitball.b-cdn.net/movies/02-16-2020/Kafan.Sundel.Bolong.2012.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="Vod",Ada Apa Dengan Pocong (2011)
+https://bitball.b-cdn.net/movies/02-16-2020/Ada.Apa.Dengan.Pocong.2011.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="Vod",Taman Langsat Mayestik (2014)
+https://bitball.b-cdn.net/movies/02-16-2020/Taman.Langsat.Mayestik.2014.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="Vod",Slank Nggak Ada Matinya (2013)
+https://bitball.b-cdn.net/movies/02-16-2020/Slank.Nggak.Ada.Matinya.2013.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="Vod",Rasuk (2018)
+https://bitball.b-cdn.net/movies/02-16-2020/Rasuk.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="Vod",The Dawn (2020)
+https://bitball.b-cdn.net/movies/02-16-2020/The.Dawn.2019.WEB-DL.x264-FGT.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="Vod",Detective Conan Episode 969
 https://cdn.clonefile.icu/drive/index.php?id=2UsUIaDjlGZeFuoIzwBTVAp3q3kOjze5cVzfDcKlQ%2FnDG7bNgVFxmybhcKUZ3oc1%2BvHr1xgd1Fm7Wl%2F%2FMS8akRGltyPX1lOc%2FOZtAxnq39Z3x6SZVLQ281Hqq%2F6v%2FR9%2B1Wd%2BsQLc%2Fr0wTZthKx6U831YVdJ8rmkbAP43XtHy4hbNndCIHRQnHQMZpEJ42vkOpqoLQe48RerO2oLBNNc8zbKpy7gjA6a4mXaSY1wY1Qdg%3D%3D&ref=https%3A%2F%2Fanimeindo.to%2Fdetective-conan-episode-969%2F&res=360
