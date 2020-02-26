@@ -929,25 +929,25 @@ https://www.doofree88.com/streaming/hd-golf_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.edailysports.com/wp-content/uploads/2019/06/rugby-world-cup-japan-2019.jpg" group-title="SPORT TV",Rugby World Cup 2019
 #https://www.livedoomovie.com/RugbyWorldCup/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://i.postimg.cc/hGGpfc0F/Play-TV-2010.png" group-title="MUSIK TV",MTV HD
+#EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://i.postimg.cc/XY93GZYC/m.png" group-title="MUSIK TV",MTV HD
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="CLUBING TV" tvg-logo="https://i.postimg.cc/hGGpfc0F/Play-TV-2010.png" group-title="MUSIK TV",CLUBING TV
+#EXTINF:-1 tvg-ID="" tvg-name="CLUBING TV" tvg-logo="https://i.postimg.cc/fLRhrBjc/images-4.jpg" group-title="MUSIK TV",CLUBING TV
 https://livetvhooq.akamaized.net:443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
 
-#EXTINF:-1 tvg-ID="" tvg-name="B MUSIC SESSION" tvg-logo="https://i.postimg.cc/hGGpfc0F/Play-TV-2010.png" group-title="MUSIK TV",B MUSIC SESSION
+#EXTINF:-1 tvg-ID="" tvg-name="B MUSIC SESSION" tvg-logo="https://i.postimg.cc/0NBqh7th/b.jpg" group-title="MUSIK TV",B MUSIC SESSION
 https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
 
-#EXTINF:-1 tvg-ID="" tvg-name="California Music Channel" tvg-logo="https://i.postimg.cc/hGGpfc0F/Play-TV-2010.png" group-title="MUSIK TV",California Music Channel
+#EXTINF:-1 tvg-ID="" tvg-name="California Music Channel" tvg-logo="https://i.postimg.cc/yxTpCH1W/images-5.jpg" group-title="MUSIK TV",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Maleo" tvg-logo="https://i.postimg.cc/hGGpfc0F/Play-TV-2010.png" group-title="MUSIK TV",Maleo
+#EXTINF:-1 tvg-ID="" tvg-name="Maleo" tvg-logo="https://i.postimg.cc/XqhGJZ7P/h.png" group-title="MUSIK TV",Maleo
 http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="B MUSIC CONCERT" tvg-logo="https://i.postimg.cc/hGGpfc0F/Play-TV-2010.png" group-title="MUSIK TV",B MUSIC CONCERT
+#EXTINF:-1 tvg-ID="" tvg-name="B MUSIC CONCERT" tvg-logo="https://i.postimg.cc/d0kqsWTJ/images-6.jpg" group-title="MUSIK TV",B MUSIC CONCERT
 https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
 
-#EXTINF:-1 tvg-ID="" tvg-name="KARAOKE CHANNEL" tvg-logo="https://i.postimg.cc/hGGpfc0F/Play-TV-2010.png" group-title="MUSIK TV",KARAOKE CHANNEL
+#EXTINF:-1 tvg-ID="" tvg-name="KARAOKE CHANNEL" tvg-logo="https://i.postimg.cc/vZ5zJy0y/images-7.jpg" group-title="MUSIK TV",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="MOVIES" tvg-logo="https://i.postimg.cc/2SzSr827/images.jpg" group-title="MOVIES TV",Movies
