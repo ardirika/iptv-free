@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcgTz2Mg/IMG-20200205-080951.jpg" group-title="INTRO",Intro
+https://raw.githubusercontent.com:443/ardirika/tes5/master/intro.mp4
+
 #EXTINF:-1 tvg-ID=""tvg-name="RCTI  SD" tvg-logo="https://i.postimg.cc/fW90WbV0/cover-rcti.jpg" group-title="INDONESIA TV",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
@@ -1014,22 +1017,22 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/SRqwCjXZ/images-1.jpg" group-title="FILEM", Episode 20
-https://cdn.apidev.icu/drive/index.php?id=e0iOfI%2BKk1bIBvMVO4KM1w2el3wChmFzWmB1Yujj2Cg7obvfR19Mxo1LLrRZjw1hIqDrHRGtxaqfegcNQEtTfp26vhgT0Cvk5oPeJPsxz04LeLcL8GyzkUzdGSjL42P3NRjJ4JlP2LaawDq3IuickhKrKYv%2FKXpgWtssk6s5AOz%2Fqd4xohmvkIAsCQlB3%2F3iqNnANKqb2eduDGfGArzLW26ANzKfMKnsa7%2BF%2FW7r9CyJ2RFUSctEM6iPZEgLKBX2Y%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-20-sub-indo%2F&res=720
+#https://cdn.apidev.icu/drive/index.php?id=e0iOfI%2BKk1bIBvMVO4KM1w2el3wChmFzWmB1Yujj2Cg7obvfR19Mxo1LLrRZjw1hIqDrHRGtxaqfegcNQEtTfp26vhgT0Cvk5oPeJPsxz04LeLcL8GyzkUzdGSjL42P3NRjJ4JlP2LaawDq3IuickhKrKYv%2FKXpgWtssk6s5AOz%2Fqd4xohmvkIAsCQlB3%2F3iqNnANKqb2eduDGfGArzLW26ANzKfMKnsa7%2BF%2FW7r9CyJ2RFUSctEM6iPZEgLKBX2Y%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-20-sub-indo%2F&res=720
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/SRqwCjXZ/images-1.jpg" group-title="FILEM", Episode 21
-https://cdn.apidev.icu/drive/index.php?id=0M1688kDm4iNXXZ6UbC%2Fngp%2F7jSP9%2F7u529g4TWH8%2FSzRfrdizfg%2FjbYPszG7W1m3JY7w5Ug8IcSV8r5IDgxJY9CrQk0Q%2BYoFp%2FHvp6gqeVH%2BwGjMK9sveBw9lc%2FUO4fljlsXPxBVvGJY4ehVm5Olt8w2CqAs6f%2BhMjWl5jgq19IPEc%2FfgiZbAeIAVGTb9a63MJBw9gdLXNeYN%2Bxu9gfHHRcz3Q2UA0jRWuZplvyxG32hpzxVJ9TwAoAFHNubOs64%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-21-sub-indo%2F&res=720
+#https://cdn.apidev.icu/drive/index.php?id=0M1688kDm4iNXXZ6UbC%2Fngp%2F7jSP9%2F7u529g4TWH8%2FSzRfrdizfg%2FjbYPszG7W1m3JY7w5Ug8IcSV8r5IDgxJY9CrQk0Q%2BYoFp%2FHvp6gqeVH%2BwGjMK9sveBw9lc%2FUO4fljlsXPxBVvGJY4ehVm5Olt8w2CqAs6f%2BhMjWl5jgq19IPEc%2FfgiZbAeIAVGTb9a63MJBw9gdLXNeYN%2Bxu9gfHHRcz3Q2UA0jRWuZplvyxG32hpzxVJ9TwAoAFHNubOs64%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-21-sub-indo%2F&res=720
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/SRqwCjXZ/images-1.jpg" group-title="FILEM", Episode 22
-https://cdn.cloneapi.icu/drive/index.php?id=Zo%2FAgxTX2i1aMYaozMIDWgg2ZXupMCF%2FKOwhbzvzOuUeLFcZv87WHArMTOGywg7hTXleQ4NVDoljh7q8AgypvAZ9tQePmWpa4ZJitVEc1mnFqPI87fXE8fMGIcxCa8%2Fu0mCMdE9Em1SIMVttKLN39o2p70sOUjKlZlFrfh31BCuKIXwsJjV0drXD7fuHSov%2FvBbEnpU3OdQXbzLyCM%2BtiQQyNAB1uOU62I%2BCovh37ht2yH42WcLpeTUriZfLwcrOA%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-22-sub-indo%2F&res=720
+#https://cdn.cloneapi.icu/drive/index.php?id=Zo%2FAgxTX2i1aMYaozMIDWgg2ZXupMCF%2FKOwhbzvzOuUeLFcZv87WHArMTOGywg7hTXleQ4NVDoljh7q8AgypvAZ9tQePmWpa4ZJitVEc1mnFqPI87fXE8fMGIcxCa8%2Fu0mCMdE9Em1SIMVttKLN39o2p70sOUjKlZlFrfh31BCuKIXwsJjV0drXD7fuHSov%2FvBbEnpU3OdQXbzLyCM%2BtiQQyNAB1uOU62I%2BCovh37ht2yH42WcLpeTUriZfLwcrOA%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-22-sub-indo%2F&res=720
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/SRqwCjXZ/images-1.jpg" group-title="FILEM", Episode 23
-https://cdn.clonefile.icu/drive/index.php?id=A7vt%2B9xkKd1JTUVOInQNCw4b4MbUOSe3J%2FPXhu3ZVnJYfzwyZLuthWCDp5In5716oHGYBwlp%2B5Oq69U4SK8piw%2FWiPPQ49bp7TCV9xkhyRGCZ0EiCZM7fVqOEDSF%2BhHgG4HlIk%2FnNblVmYvDh2pfVxIKsFgGBIPd6ewWz6CKzpGXy3%2BoE3jaV9sFKd8%2Fjat890dzRI8Ldhi8PsYSzyI3dbS5%2BB%2F8CROZTJMt5PLXoXT6w%2FbYeAxNFRQydCPrTecD0%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-23-sub-indo%2F&res=720
+#https://cdn.clonefile.icu/drive/index.php?id=A7vt%2B9xkKd1JTUVOInQNCw4b4MbUOSe3J%2FPXhu3ZVnJYfzwyZLuthWCDp5In5716oHGYBwlp%2B5Oq69U4SK8piw%2FWiPPQ49bp7TCV9xkhyRGCZ0EiCZM7fVqOEDSF%2BhHgG4HlIk%2FnNblVmYvDh2pfVxIKsFgGBIPd6ewWz6CKzpGXy3%2BoE3jaV9sFKd8%2Fjat890dzRI8Ldhi8PsYSzyI3dbS5%2BB%2F8CROZTJMt5PLXoXT6w%2FbYeAxNFRQydCPrTecD0%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-23-sub-indo%2F&res=720
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/SRqwCjXZ/images-1.jpg" group-title="FILEM", Episode 24
-https://cdn.cloneapi.icu/drive/index.php?id=t7kcfczyYHJuvCUdNNn5lwX%2BZecWRFVbdmkKnRE112IuBPNI8z5IHIPbU%2FvhBQib2IyfnLwgGpwTHU6ptDOQqCs3ZNUEy%2FL0u%2Bx6Cu1BfXNMUnFhWUkqcRsfEOoyOpi4ULgbeVT9htVLdL0AbA%2F26dDJxzR9GkidZuyDV%2BwK0fNTPkqk4nJVsvAZg3GHnG6Vsc7V%2FunIUNfVKPg24Mq%2BeATeubhtGFO%2BOcSZHvn%2BjES7WfyrvsjKMe2okSefY%2BWl8%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-24-sub-indo%2F&res=720
+#https://cdn.cloneapi.icu/drive/index.php?id=t7kcfczyYHJuvCUdNNn5lwX%2BZecWRFVbdmkKnRE112IuBPNI8z5IHIPbU%2FvhBQib2IyfnLwgGpwTHU6ptDOQqCs3ZNUEy%2FL0u%2Bx6Cu1BfXNMUnFhWUkqcRsfEOoyOpi4ULgbeVT9htVLdL0AbA%2F26dDJxzR9GkidZuyDV%2BwK0fNTPkqk4nJVsvAZg3GHnG6Vsc7V%2FunIUNfVKPg24Mq%2BeATeubhtGFO%2BOcSZHvn%2BjES7WfyrvsjKMe2okSefY%2BWl8%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-24-sub-indo%2F&res=720
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/SRqwCjXZ/images-1.jpg" group-title="FILEM", Episode 25
-https://cdn.cloneapi.icu/drive/index.php?id=2kGxDu2K0AYeK%2FFY7plP%2FgXmaB5MDfDJCAhJT4v9XQ2cFPXj1BOCVRbrRUrdZu58Fcp8JnfObbAGFtNKYXFxrNUWdxt4S3%2Bd%2F328Yd5W2XoRgwjfo%2FJhW7ku0x5WncZwx7i0Uv27b8N2DIYXQ8iAZYKBeSnYLxvzaAz8CjvKlWMBsanA7uUE7cx92tAdkbn7Iwe%2FR3djhWkqkWrhHEbGL7Z%2F4Ygs9uF06yo2%2BuJ4eGwQif5RTwYQRJeuLHc2Uz%2BgA%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-25-sub-indo%2F&res=720
+#https://cdn.cloneapi.icu/drive/index.php?id=2kGxDu2K0AYeK%2FFY7plP%2FgXmaB5MDfDJCAhJT4v9XQ2cFPXj1BOCVRbrRUrdZu58Fcp8JnfObbAGFtNKYXFxrNUWdxt4S3%2Bd%2F328Yd5W2XoRgwjfo%2FJhW7ku0x5WncZwx7i0Uv27b8N2DIYXQ8iAZYKBeSnYLxvzaAz8CjvKlWMBsanA7uUE7cx92tAdkbn7Iwe%2FR3djhWkqkWrhHEbGL7Z%2F4Ygs9uF06yo2%2BuJ4eGwQif5RTwYQRJeuLHc2Uz%2BgA%3D&ref=https%3A%2F%2Fgomunime.com%2Fboruto-naruto-next-generations-episode-25-sub-indo%2F&res=720
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRqwCjXZ/images-1.jpg" group-title="FILEM",Kafan Sundel Bolong (2012)
 https://bitball.b-cdn.net/movies/02-16-2020/Kafan.Sundel.Bolong.2012.WEB-DL.720p.FMZM.mp4
