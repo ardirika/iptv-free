@@ -143,8 +143,6 @@ https://www.useetv.com/livetv/nhkworld
 
 ############YOUTUBE########
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/zXRsrLV4/images.jpg" group-title="Live YouTube",Tom and Jerry 1
-https://youtu.be/933-mhry0Bc
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/2yt0NPWP/images.png" group-title="Live YouTube",Kompas tv
 https://youtu.be/qiS7ddYkU9g
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/2yt0NPWP/images.png" group-title="Live YouTube",TvOne
